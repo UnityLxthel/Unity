@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UnityLxthel&title=Visitors) ![Followers Badge](https://visitor-badge.laobi.icu/badge?page_id=UnityLxthel&title=Visitors)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UnityLxthel&title=Visitors) ![Followers Badge](https://img.shields.io/github/followers/UnityLxthel?label=Followers)
 # Hi there 👋
 
 <div style="text-align: center;">
