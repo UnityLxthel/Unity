@@ -7,8 +7,8 @@
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnityLxthel&layout=compact&theme=onedark)](https://github.com/UnityLxthel/)
-![Unity's github stats](https://github-readme-stats.vercel.app/api?username=UnityLxthel&hide=issues&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnityLxthel&layout=compact&theme=dark)](https://github.com/UnityLxthel/)
+![Unity's github stats](https://github-readme-stats.vercel.app/api?username=UnityLxthel&hide=issues&theme=dark)
 --------
 <div style="text-align: center;">
   Check out my cool projects!
