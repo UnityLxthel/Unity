@@ -2,7 +2,7 @@
 # Hi there, I'm Unity 👋
 I am a discord bot developer. For the most part, I prefer to code in JS.
 
-  - Developer of [ControlPanel.gg](https://controlpanel.gg)
+  - Bot/Panel Developer of [ControlPanel.gg](https://controlpanel.gg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnityLxthel&layout=compact&theme=dark)](https://github.com/UnityLxthel/)
 ![Unity's github stats](https://github-readme-stats.vercel.app/api?username=UnityLxthel&hide=issues&theme=dark)
