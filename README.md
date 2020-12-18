@@ -3,6 +3,7 @@
 I am a discord bot developer. For the most part, I prefer to code in JS.
 
   - Bot/Panel Developer of [ControlPanel.gg](https://controlpanel.gg)
+  - Moderator at [Danbot Hosting](https://discord.com/dbh)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnityLxthel&layout=compact&theme=dark)](https://github.com/UnityLxthel/)
 ![Unity's github stats](https://github-readme-stats.vercel.app/api?username=UnityLxthel&hide=issues&theme=dark)
