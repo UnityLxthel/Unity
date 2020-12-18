@@ -1,9 +1,12 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=UnityLxthel&title=Visitors) ![Followers Badge](https://img.shields.io/github/followers/UnityLxthel?label=Followers)
-# Hi there 👋
+# Hi there, I'm Unity 👋
 
 <div style="text-align: center;">
-  I'm Unity, I am a discord bot developer.<br/>
+  I am a discord bot developer.<br/>
   For the most part, I prefer to code in JS.
+    <ol>
+      <li>I'm a developer at ControlPanel.gg<li>
+    <ol>
 </div>
 <br/>
 
