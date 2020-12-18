@@ -4,9 +4,9 @@
 <div style="text-align: center;">
   I am a discord bot developer.<br/>
   For the most part, I prefer to code in JS.
-    <ol>
+    <ul>
       <li>I'm a developer at ControlPanel.gg<li>
-    <ol>
+    <ul>
 </div>
 <br/>
 
